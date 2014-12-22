@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The resurreccion of the masse with the wonderful vertues of the same, newly set forth vnto the great
+
+1. ☞ The boke to the Reader.
+
 #####Body#####
-The resurreccion of the masse with the wonderful vertues of the same, newly set forth vnto the great
+
+1. ¶The resurreccion of the Masse.
+O aulas.O missas.O sacrifices.O concionatores.O sacerdotes.O presbyteros.O castos.O papistas.O ollas
 **Types of content**
 
   * There are 1140 **verse** lines!
